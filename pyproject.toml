@@ -1,0 +1,14 @@
+[project]
+name = "lightx2vwrapper"
+description = "ComfyUI-Lightx2vWrapper is an inference wrapper for Lightx2v designed for use with ComfyUI."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/GACLove/ComfyUI-Lightx2vWrapper"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Lightx2vWrapper"
+Icon = ""
